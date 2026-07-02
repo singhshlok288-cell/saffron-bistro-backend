@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "saffron-bistro-501206",
+  "private_key_id": "f0e751be1c2a92edfae0a552163937722a383928",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmrl1bE/iXKxT2\nLqhGJBXdVeOIRB1QYlG9TGt89Yjneqpw1wJ20+fG3QciZlwz59i1t68i3N53mBgK\nwA2WtsHu/VTLY8fuOho6zX+iGDf7xPpsJ2Rf0UEIF7pEFZMbDOU7+2MSUH5tEx82\nP45CD0WiqlaJYwnahw5xjgHaDSjY2P1tdjXqZ465vpkplMpzR9Njf6ZYkxK+P6ef\nEt8RcDx8gR6rKenMfDsS7Sq/Li7Njox/xOz/3A/DcMRUl+PRYdsKYUqinczBvYKT\nYWrkQLA1RFK4KVaeZn0joKffY39UpwIx7BfFUlKQsaeszCr3cnnwOnv2Wg+Ud4lQ\nSy4C45vtAgMBAAECggEAAqvARuGC4MKUeJNr0oqT0nL6DT4bgs+92Tzca2lbKGvA\nnRlHlVQ088H+nMWrduYhWgbCUYUyMr68V+PBnqd5Y7/UeC6LpBzIkdD8LsKY7GRj\nfOXZXRMIfz2IwxGIxMIH+auVZ/7j37yS30wqa+g8aJcL1vIVf4EdhqKiE0vrBSUt\nCkIBBkV5ZNz8V1o9W444dPfiIiA9cux715i8D82vKRb/WAjAH0T8eNU40qbkPrs+\nLOEaDL4tHGB33vZncVqVT05qHvcUVtANEXVJsBDLbycUJWQzUn1h6gq/dOrefan6\n4t/V6irFOZFJmPeOu4BF/fiQpNAknyNKoRsIeApY0wKBgQDQgyAJNr7p1Y7lFAoC\n9uk/Cll71NVwjB3RvcieIJPvrrsJvQfmCtEi+Nc4LxfsYmksTF07HXuCI7cF/WHd\n16Vvfp6xcQOKEm2l/MWEiXlA5Nc3TNAq7EpTBfFT0numJg7utV/nE1TL1t2WPD5H\nsiFPkrtTmoA/JFKrvPALZX0R0wKBgQDMpF0YCTj/VE9DN5Gs7JD0rEX0EfimA/6g\ng+g4HX3tyctWyAAXqNvKGUQ52x24NgwrEdGr0/CJGequWZTp9dRPdTzoaHFazcT7\nYeiHudqci+c0QCgzsZz67JDwRGfugP7lAJ4JcpCWSRTUjop3jOcq39wMB6OsIQVa\nnU+eg4ZDPwKBgQCtF20MuQmbC9FnkU8OTvIphunpxjC5EVffuXBE9D5ahe52kxlv\neiNKqM/gsBdn//nW8D2kyUCyM/vHWSRZCJ8pAy+xlWOextWHKWK+N3EU0eNm4Lke\nKLE6YoCHWP+UWZujxaUrKf0GigPAp5n74n+Mkv421NcJk5mdP2b1zvYYSQKBgBdi\nfOTfQO0kdD5JHlN1YQcknIXMe+50rGcpS6MF87r1gU/0YNZTTHJmur4lxNqlCnTt\nf1k0SdtQ49lykSq/FbjSu9gO/00SEH1tbcX8vfd/oTb+Udm+ZSLjX5ilKH8/rGD8\n1hJcThtuVHwJodcReeUTWbDiOpjT2SnGqi+B9hi/AoGAfqfmCVufeuIDmJqDDoi6\nvtzk8Fv9dr9668wooQF4UWyXB7jEDe22BESR5QfRC/10budKXuDTi0LlUI0vjh5j\n2ag705HA0tJKl+pReZRNqQmT6ppEaVO9uV/XIuqLTAQx/ZteWxmc4pLsjxeEKscA\nFgoCvFJAjGbx6iB6aNsdKNQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "saffron-bistro@saffron-bistro-501206.iam.gserviceaccount.com",
+  "client_id": "115688476357735966526",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saffron-bistro%40saffron-bistro-501206.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
